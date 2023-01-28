@@ -1,2 +1,3 @@
 # 30-days_probably_frontend
-tero bau
+#will do code for 30 days inside a topic
+#punish me If i cant
